@@ -100,7 +100,7 @@ div .home{
    color: rgb(225, 239, 230);
 }
 
-div .main{
+div .links{
     background-color: rgba(0, 4, 17, .8);
     display: flex;
     justify-content: center;
